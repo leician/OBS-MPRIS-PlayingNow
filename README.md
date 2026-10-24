@@ -20,7 +20,7 @@ Debian:
 ```
 apt install python3 python3-flask python3-jeepney python3-asgiref
 ```
-PIP (Not recommended)
+Pip (Not recommended):
 ```
 pip install flask flask[async] jeepney
 ```
