@@ -20,6 +20,10 @@ Debian:
 ```
 apt install python3 python3-flask python3-jeepney python3-asgiref
 ```
+PIP (Not recommended)
+```
+pip install flask flask[async] jeepney
+```
 
 1. Clone the repository
 2. Go to Tools > Scripts in OBS Studio
